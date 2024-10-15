@@ -17,12 +17,12 @@ My first api where through it I was able to use java with the spring framework, 
 
 <details>
     <summary><b>Clients</b></summary>
-    <img src="" alt="">
+    <img src="./images/pg01- backend.png" alt="">
 </details>
 
 <details>
     <summary><b>Books</b></summary>
-    <img src="" alt="">
+   <img src="./images/pg02-backend.png" alt="">
 </details>
 
 ## 💻 Technology
