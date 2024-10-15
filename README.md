@@ -27,7 +27,7 @@ My first api where through it I was able to use java with the spring framework, 
 
 ## 💻 Technology
 - Language: Java
-- Framework: Spring (Web, JPA)
+- Framework: Spring (Web, JPA) -> Security in progress
 - Database: PostgreSQL
 - Maven
 
