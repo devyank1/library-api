@@ -6,6 +6,30 @@
 
 My first api where through it I was able to use java with the spring framework, where it is currently under development.
 
+## 👨‍🏫 Diagrama de Classes
+
+```mermaid
+classDiagram
+    class Cliente {
+        - int id
+        - String nome
+        - String email
+    }
+
+    class Livro {
+        - int id
+        - String titulo
+        - String autor
+        - double preco
+    }
+
+    class Livraria {
+    }
+
+    Cliente *-- Livraria
+    Livro *-- Livraria
+```
+
 ## 🔍 Operation Flows
 
 1. **Create Client/Book:** Clients or books can cadastrate in the system.
