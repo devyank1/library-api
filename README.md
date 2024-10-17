@@ -6,7 +6,7 @@
 
 My first api where through it I was able to use java with the spring framework, where it is currently under development.
 
-## 👨‍🏫 Diagrama de Classes
+## 👨‍🏫 Class Diagram
 
 ```mermaid
 classDiagram
